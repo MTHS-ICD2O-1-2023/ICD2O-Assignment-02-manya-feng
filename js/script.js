@@ -11,7 +11,7 @@
  */
 function calculatePerimeterOfParallelogram () {
   // input
-  const baseOfParallelogram = parseInt(document.getElementById('base-of-parallelogram,').value)
+  const baseOfParallelogram = parseInt(document.getElementById('base-of-parallelogram').value)
   const sideOfParallelogram = parseInt(document.getElementById('side-of-parallelogram').value)
 
   // process
